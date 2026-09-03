@@ -1726,6 +1726,83 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  group-title="TV#华语",星河台
 http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+#EXTM3U
+#EXTINF:-1 group-title="TV#华语",寰宇新闻台
+https://cdi.ofiii.com/ocean/video/playlist/_2GTx6ZYJpg/litv-longturn14-avc1_6000000=1-mp4a_118000_zho=8.m3u8
+#EXTINF:-1 group-title="TV#华语",中视
+https://cdi.ofiii.com/ocean/video/playlist/hE5tM6o-Sxo/4gtv-4gtv040-avc1_6000000=10000-mp4a_122000_zho=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",华视
+https://cdi.ofiii.com/ocean/video/playlist/J_FaJ4b6sBQ/4gtv-4gtv041-avc1_6000000=10000-mp4a_123000_zho=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",好消息2台
+https://cdi.ofiii.com/ocean/video/playlist/hNRkcx97Upk/litv-ftv17-avc1_6000000=1-mp4a_127000_zho=2.m3u8
+#EXTINF:-1 group-title="TV#华语",好消息
+https://cdi.ofiii.com/ocean/video/playlist/TF-Q0v-g_I0/litv-ftv16-avc1_6000000=1-mp4a_133000_zho=2.m3u8
+#EXTINF:-1 group-title="TV#华语",空中英語教室HD頻道
+https://cdi.ofiii.com/ocean/video/playlist/_UWZsDIYSiA/litv-show-vod34440-260903M001-video_eng=5742782-audio_eng=127849.m3u8
+#EXTINF:-1 group-title="TV#华语",ELTV生活英語台
+https://cdi.ofiii.com/ocean/video/playlist/x7t02pfwQeY/litv-xinchuang20-avc1_5936000=10003-mp4a_129000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",龙华卡通台
+https://cdi.ofiii.com/ocean/video/playlist/ZwUsREGCE5w/litv-xinchuang01-avc1_2936000=10002-mp4a_122000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",哆啦Ａ夢台
+https://cdi.ofiii.com/ocean/video/playlist/nTrh88X2Mcg/litv-vod39789-000000M001-video_eng=1436000-audio_eng=128186.m3u8
+#EXTINF:-1 group-title="TV#华语",東森娛樂台
+https://cdi.ofiii.com/ocean/video/playlist/DpaD4eORsNE/litv-show-vod11069-001759M001-video=5950782-audio_eng=191970.m3u8
+#EXTINF:-1 group-title="TV#华语",亞洲旅遊台
+https://cdi.ofiii.com/ocean/video/playlist/RcxVlDxcumk/4gtv-4gtv076-avc1_6000000=1-mp4a_127000_zho=6.m3u8
+#EXTINF:-1 group-title="TV#华语",中天亞洲精采台
+https://cdi.ofiii.com/ocean/video/playlist/zZsGZiR_4YY/litv-show-vod44006-001513M001-video_eng=5950074-audio_eng=195682.m3u8
+#EXTINF:-1 group-title="TV#华语",Smart知識台
+https://cdi.ofiii.com/ocean/video/playlist/VjBGp62Mg40/litv-xinchuang19-avc1_5936000=10003-mp4a_148000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",經典劇場
+https://cdi.ofiii.com/ocean/video/playlist/G-wdmT-i1aA/litv-drama-vod57124-000020M001-video_eng=5946000-audio_eng=128514.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華戲劇台
+https://cdi.ofiii.com/ocean/video/playlist/5Jn_W0pcqVU/litv-xinchuang18-avc1_5936000=10003-mp4a_134000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",台灣戲劇台
+https://cdi.ofiii.com/ocean/video/playlist/6AGmGg-_Khg/litv-xinchuang22-avc1_5936000=10003-mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華偶像台
+https://cdi.ofiii.com/ocean/video/playlist/2V4t6RkVY0I/litv-xinchuang12-avc1_5936000=10003-mp4a_134000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華日韓台
+https://cdi.ofiii.com/ocean/video/playlist/GgZmQ67Ez04/litv-xinchuang11-avc1_5936000=10003-mp4a_138000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",Yes娛樂
+https://cdi.ofiii.com/ocean/video/playlist/MHbiKQlc2x8/litv-ent-vod85692-000000M001-video=1425276-audio=197047.m3u8
+#EXTINF:-1 group-title="TV#华语",Focus 風采戲劇台
+https://cdi.ofiii.com/ocean/video/playlist/75FDwjG4dbo/litv-drama-vod84476-000016M001-video=5885117-audio=195580.m3u8
+#EXTINF:-1 group-title="TV#华语",掏掏新聞
+https://cdi.ofiii.com/ocean/video/playlist/OuWUA6hm8j0/litv-show-vod51575-000307M001-video=387834-audio=192906.m3u8
+#EXTINF:-1 group-title="TV#华语",華視新聞
+https://cdi.ofiii.com/ocean/video/playlist/iLHitm8FvOY/0.m3u8
+#EXTINF:-1 group-title="TV#华语",鏡電視新聞台
+https://cdi.ofiii.com/ocean/video/playlist/A2uO4h0mZJw/0.m3u8
+#EXTINF:-1 group-title="TV#华语",三立新聞LIVE
+https://cdi.ofiii.com/ocean/video/playlist/a2Ay3ksG8tE/0.m3u8
+#EXTINF:-1 group-title="TV#华语",中視新聞
+https://cdi.ofiii.com/ocean/video/playlist/eOQQUb_sznE/0.m3u8
+#EXTINF:-1 group-title="TV#华语",中天新聞台
+https://cdi.ofiii.com/ocean/video/playlist/yaSYPOX4P8M/0.m3u8
+#EXTINF:-1 group-title="TV#华语",國會頻道1台
+https://cdi.ofiii.com/ocean/video/playlist/Y2O9GLMNFig/4gtv-4gtv084-avc1_6000000=1-mp4a_132000_zho=8.m3u8
+#EXTINF:-1 group-title="TV#华语",國會頻道2台
+https://cdi.ofiii.com/ocean/video/playlist/Z7PBZwiUEA0/4gtv-4gtv085-avc1_2000000=1-mp4a_126000_zho=7.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華經典台
+https://cdi.ofiii.com/ocean/video/playlist/ZgJavG6Nkn8/litv-xinchuang21-avc1_5936000=10003-mp4a_126000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",Golden 強片台
+https://cdi.ofiii.com/ocean/video/playlist/TDmkSfiy_6A/litv-vod35311-000000M001-video=5901000-audio=128275.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華電影台
+https://cdi.ofiii.com/ocean/video/playlist/Iap_SU2hc80/litv-xinchuang03-avc1_5936000=10003-mp4a_122000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",龍華洋片台
+https://cdi.ofiii.com/ocean/video/playlist/aLYT0UoNJNc/litv-xinchuang02-avc1_5936000=10003-mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="TV#华语",歐飛電影台
+https://cdi.ofiii.com/ocean/video/playlist/bu5DrjTiwbI/litv-vod81338-000000M001-video_eng=5918094-audio_eng=193066.m3u8
+#EXTINF:-1 group-title="TV#华语",歐飛動作電影台
+https://cdi.ofiii.com/ocean/video/playlist/cLSgnsbLBYI/litv-vod83400-000000M001-video_eng=5779715-audio_eng=193320.m3u8
+#EXTINF:-1 group-title="TV#华语",Golden影迷台
+https://cdi.ofiii.com/ocean/video/playlist/DTttcf_rA3Q/litv-vod76837-000000M001-video_eng=5666476-audio_eng=192770.m3u8
+#EXTINF:-1 group-title="TV#华语",華語金選台
+https://cdi.ofiii.com/ocean/video/playlist/k0JbjxmP2rg/litv-vod82256-000000M001-video_eng=5878921-audio_eng=194773.m3u8
+#EXTINF:-1 group-title="TV#华语",Focus探索新知台
+https://cdi.ofiii.com/ocean/video/playlist/3fhoW_GtuSk/litv-show-vod41665-030007M001-video_eng=383000-audio_eng=128838.m3u8
+#EXTINF:-1 group-title="TV#华语",地球檔案庫
+https://cdi.ofiii.com/ocean/video/playlist/yP1eXJ4CM6I/litv-show-vod77933-000003M001-video_eng=373623-audio_eng=194904.m3u8
 #EXTINF:-1  tvg-name="HD看电影" tvg-id="HD看电影" group-title="TV#数字频道",HD看电影
 http://222.210.162.249:6868/udp/239.93.42.47:5140
 #EXTINF:-1  tvg-name="IPTV5+ HD" tvg-id="IPTV5+ HD" group-title="TV#数字频道",IPTV5+ HD
